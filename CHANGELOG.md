@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- [issues/70](https://github.com/podaac/tva-meta/issues/70): Add bignbit dataset configs for all remaining on-prem gig collections
 ### Changed
 - [bignbit](https://github.com/podaac/bignbit)
   - [issues/15](https://github.com/podaac/bignbit/issues/15): Change 'convertToPNG' choice to a generic send to harmony choice
